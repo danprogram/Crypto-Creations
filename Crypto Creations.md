@@ -1,6 +1,6 @@
 # Crypto Creations
 
-The idea of Crypto Creations is that a crypto-currency could be created that has a tangible backing by using the investments of a DNI (Distributed Network of Individuals) to directly purchase and hold assets to which they would then become entitled to the equivalent share.
+The idea of Crypto Creations is that a crypto-currency could be created that has a tangible backing by using the investments of a DNI (Distributed Network of Individuals) to directly purchase and hold assets to which they would then become entitled to an equivalent share.
 
 This would be accomplished by legally registering the DNI as a Non Profit Organization and using that as a public INTERFACE for purposes of purchasing land and assets
 
